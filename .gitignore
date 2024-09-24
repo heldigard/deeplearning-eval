@@ -170,3 +170,7 @@ model_checkpoints/*
 model_checkpoints/
 *.jpg
 *.keras
+coco.names
+yolov3.weights
+yolov3.cfg
+yolov3-tiny.weights
