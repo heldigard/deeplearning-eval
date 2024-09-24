@@ -174,3 +174,6 @@ coco.names
 yolov3.weights
 yolov3.cfg
 yolov3-tiny.weights
+img_align_celeba/*
+img_align_celeba/
+.continueignore

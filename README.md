@@ -20,3 +20,7 @@ En los notebooks de Image Classification se va a realizar la clasificación de i
 # YOLO deteccion en tiempo real
 
 En el archivo Camera_YOLO.py se utiliza el modelo YOLO v3, para detectar objetos del flujo de video de la camara.
+
+# AutoEncoder para eliminar ruido de imágenes de personas.
+
+En el notebook **AutoEncoder_Noisy_CelebA.ipynb** se utiliza un modelo autoencoder, para entrenar un modelo con las imágenes del dataset **CelebA**. El modelo se entrena con sin ruido, para que el modelo pueda aprender a eliminar el ruido de las imágenes.
